@@ -201,5 +201,3 @@ Retrieves specialists by medical specialty.
 **Medical Disclaimer**: This chatbot provides general medical information only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of qualified healthcare providers with questions about medical conditions. Never disregard professional medical advice or delay seeking it because of information received from this chatbot.
 
 ***
-
-**Built with ❤️ for better healthcare accessibility**
